@@ -10,3 +10,8 @@ At Salesforce practice within Persistent, we are striving to build knowledge and
 
 We have a central portal to help you with understanding many such things that can help us bringing this consistency, and it can be accessed from KnowledgeCenter.
 We have total 7 specialized communities over Yammer, where you can ask questions, answer to the questions asked by others or even you can answer your own question (once you find the solution to your problem).
+
+
+**$1.52 USD will be contributed to Acción Andina for each Salesforce certification maintenance completed between December 8, 2021, and December 31, 2022. Total donation by Salesforce up to $20,000 US Dollars.
+ Eligible participants only include those with Salesforce Winter ’22 Release certification maintenance due for the following certifications: 
+ Salesforce Certified Marketing Cloud Administrator, Salesforce Certified Platform App Builder, Salesforce Certified Platform Developer I, Salesforce Certified B2C Solution Architect, Salesforce Certified Data Architect, Salesforce Certified Development Lifecycle and Deployment Architect, Salesforce Certified Integration Architect, and Salesforce Certified Sharing and Visibility Architect.
