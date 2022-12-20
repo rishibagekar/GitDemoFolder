@@ -10,3 +10,9 @@ At Salesforce practice within Persistent, we are striving to build knowledge and
 
 We have a central portal to help you with understanding many such things that can help us bringing this consistency, and it can be accessed from KnowledgeCenter.
 We have total 7 specialized communities over Yammer, where you can ask questions, answer to the questions asked by others or even you can answer your own question (once you find the solution to your problem).
+
+The Psychology of Gen V Cyber Attacks
+
+Cyber-attacks are evolving and the latest fifth generation of attacks employs large-scale, multi-vector mega-attacks. In addition, cyber criminals use modern attack technology with devastating effects, including supply chain cyber-attack, double and triple extortion ransomware attacks, zero-click attacks, and MFA fatigue attacks.
+
+The latest generation of cyber-attacks relies on psychological manipulation to feed on people's emotions, convincing them to relax their guard or even do things they were instructed not to do and then using AI/ML technologies to magnify impacts
