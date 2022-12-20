@@ -1,0 +1,12 @@
+Dear Salesforcians,
+
+ 
+
+Many of you may have joined Persistent Systems in recent years or months, and some of you are carrying the knowledge with you from past experience while one thing that we all need to understand is to bring consistency as “One Persistent” in our services toward our customer.
+
+At Salesforce practice within Persistent, we are striving to build knowledge and collaboration as a “Culture”.
+
+ 
+
+We have a central portal to help you with understanding many such things that can help us bringing this consistency, and it can be accessed from KnowledgeCenter.
+We have total 7 specialized communities over Yammer, where you can ask questions, answer to the questions asked by others or even you can answer your own question (once you find the solution to your problem).
