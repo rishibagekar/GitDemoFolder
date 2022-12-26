@@ -3,4 +3,3 @@ Caution: This email originated from outside of the organization. Do not click li
 
 We've sent you a new Salesforce security token because you recently changed your password or requested to reset your security token. Use this updated security token with API or desktop clients that require it.
 
-Username: rishikesh_bagekar@persistent.com
